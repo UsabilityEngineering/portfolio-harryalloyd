@@ -14,6 +14,4 @@ Another confusing instance is when you press the middle button a third time. Thi
 
 <img src="../space_heater3.png" alt="Space Heater" width="350" />
 
-**Mental model:** A mental model is the user's idea of how a system functions.
 
-**Feedback:** Feedback is the system’s response that shows the user what happened after an action.
