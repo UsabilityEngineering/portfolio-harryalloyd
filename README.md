@@ -11,4 +11,4 @@ forward to this class because I really enjoy front-end work with html/css and JS
 ## UX Journal
 
 [Turning up the heat, Journal 1](https://github.com/UsabilityEngineering/portfolio-harryalloyd/blob/main/j01/index.md)<br><br>
-[Turning up the heat, Journal 2](journal/)
+[Turning up the heat, Journal 2](https://github.com/UsabilityEngineering/portfolio-harryalloyd/blob/main/j02/index2.md)
