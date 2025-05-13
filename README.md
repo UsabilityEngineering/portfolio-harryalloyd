@@ -11,5 +11,5 @@ Coming soon.
 ## UX Journal
 
 [Turning up the heat, Journal 1](journal/)
-##
+#
 [Turning up the heat, Journal 2](journal/)
