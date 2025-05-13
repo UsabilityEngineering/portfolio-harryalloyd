@@ -6,7 +6,7 @@ forward to this class because I really enjoy front-end work with html/css and JS
 
 ## UX Team Project
 
-Coming soon.
+[GymBuddy](https://github.com/ChicoState/gymbuddy-ux)
 
 ## UX Journal
 
