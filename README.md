@@ -10,5 +10,5 @@ Coming soon.
 
 ## UX Journal
 
-[Turning up the heat, Journal 1](journal/)<br><br>
+[Turning up the heat, Journal 1]([journal/](https://github.com/UsabilityEngineering/portfolio-harryalloyd/blob/main/j01/index.md))<br><br>
 [Turning up the heat, Journal 2](journal/)
